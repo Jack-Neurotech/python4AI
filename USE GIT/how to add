@@ -1,0 +1,11 @@
+# 0. First time only - initialize Git in your project
+git init
+
+# 1. Save your changes locally
+git add .
+git commit -m "Add price calculation function"
+
+# 2. Upload to GitHub (after connecting to GitHub - see next pages)
+git push
+
+# That's it! Your code is saved and backed up

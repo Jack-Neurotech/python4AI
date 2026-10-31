@@ -1,0 +1,12 @@
+# Open terminal in VS Code (Terminal > New Terminal)
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+brew install gh
+
+gh auth login
+
+Title: Neuro
+
+Code: 02EE-63AD
+

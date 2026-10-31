@@ -1,0 +1,14 @@
+You should make projects to understand python as a foundation for AI engineering.
+
+Virtual environment: python3 -m venv .venv
+
+Activate it: source .venv/bin/activate
+
+Anaconda: A way to use virtual environments 
+
+Packages: code files that other people created that can assist people.
+
+installing packages: using pip command 
+
+python3 -m pip install package name
+
